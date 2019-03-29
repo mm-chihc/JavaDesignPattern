@@ -2,7 +2,6 @@ public class StudentList{
 	protected Student[] students;
 	private int last = 0;
 
-	public StudentList(){}
 	public StudentList(int studentCount){
 		this.students = new Student[studentCount];
 	}
