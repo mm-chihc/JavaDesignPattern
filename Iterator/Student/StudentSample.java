@@ -1,5 +1,5 @@
 
-class Sample{
+class StudentSample{
 	public static void main(String[] args){
     MyTeacher you = new MyTeacher();
     you.createStudentList();
